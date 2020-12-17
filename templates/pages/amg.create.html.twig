@@ -1,0 +1,17 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+
+    <div class="container mt-4">
+        <h1>Selectionnez un client</h1>
+
+
+
+        {{ form_start(form) }}
+            {{ form_label(form.clients) }}
+            {{ form_widget(form.clients) }}
+        {{ form_rest(form) }}
+        {{ form_end(form) }}
+    </div>
+
+{% endblock %}
