@@ -442,12 +442,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608200590780</updated>
-      <workItem from="1608200592356" duration="33605000" />
+      <workItem from="1608200592356" duration="33653000" />
     </task>
+    <task id="LOCAL-00001" summary="'maquette formulaire information client'">
+      <created>1608245649408</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608245649408</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33605000" />
+    <option name="totallyTimeSpent" value="33653000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="31" width="1280" height="724" extended-state="0" />
@@ -498,6 +506,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="'maquette formulaire information client'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'maquette formulaire information client'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
